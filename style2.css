@@ -1,0 +1,52 @@
+  #Top {
+    width: 80%;
+    display: flex;
+    margin-bottom: 60px;
+    font-weight: 200;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: #D9D9D9; 
+}
+
+#logo {
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+    float: right;
+}
+
+nav {
+    width: 90%;
+    text-align: left;
+    margin-left: 100px;
+    word-spacing: 80px;
+}
+
+a {
+    font-weight: bold;
+}
+
+.image-pair {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.img-container {
+    display: flex;
+    margin: 70px;
+    max-height: 200px;
+}
+
+.gallery-img {
+    max-width: 100%;
+    height: auto;
+}
+
+
